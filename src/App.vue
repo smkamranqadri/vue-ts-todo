@@ -1,13 +1,18 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-view></router-view>
+    <todos></todos>
   </div>
 </template>
 
 <script lang="ts">
+import Todos from './components/todos.vue';
+
 export default {
-  name: 'app'
+  name: 'app',
+  components: {
+    Todos
+  }
 }
 </script>
 
