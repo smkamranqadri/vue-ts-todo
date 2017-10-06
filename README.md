@@ -2,7 +2,7 @@
 
 Todo App with Vuejs using Typescript
 
-Project initiated with this start pack: https://github.com/alexjoverm/Vue-Typescript-Starter
+Project initiated with this starter pack: https://github.com/alexjoverm/Vue-Typescript-Starter
 
 For Vuex integration checkout : https://github.com/smkamranqadri/vue-ts-todo-vuex
 
